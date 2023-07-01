@@ -1,0 +1,6 @@
+name: kurs
+version: '${project.version}'
+main: ru.divided.mc.kurs.Kurs
+api-version: '1.20'
+authors: [realdivided]
+website: https://divided.shuoki.top/
